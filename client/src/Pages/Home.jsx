@@ -6,7 +6,9 @@ import Slider from '../components/Slider'
 
 import NavBar from '../components/NavBar'
 import Category from '../components/Category'
-import { styled } from '@material-ui/styles'
+import ProductsList from '../components/ProductsList'
+import Newsletter from '../components/Newsletter'
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
@@ -15,6 +17,9 @@ const Home = () => {
       <NavBar />
       <Slider />
       <Category />
+      <ProductsList/>
+      <Newsletter />
+      <Footer/>
     </div>
   )
 }

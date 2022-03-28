@@ -43,22 +43,22 @@ export const categoryItems = [
 export const popularProducts = [
   {
     id: 1,
-    img: '',
+    img: 'image-slider.jpg',
   },
   {
     id: 2,
-    img: '',
+    img: 'image-slider.jpg',
   },
   {
     id: 3,
-    img: '',
+    img: 'image-slider.jpg',
   },
   {
     id: 4,
-    img: '',
+    img: 'image-slider.jpg',
   },
   {
     id: 5,
-    img: '',
+    img: 'image-slider.jpg',
   },
 ]
